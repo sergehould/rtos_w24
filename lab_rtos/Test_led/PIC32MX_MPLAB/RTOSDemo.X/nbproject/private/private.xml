@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="38">
+        <file>
+            <url>file:/C:/Users/houlds/Documents/Vanier/courses_C_drive/MPLAB_projects_original/projects/RTOS_projects/RTOS_slides_demos/Test_led/PIC32MX_MPLAB/task_event_group_elevator.c</url>
+            <bookmark id="18">
+                <name/>
+                <line>216</line>
+                <key/>
+            </bookmark>
+            <bookmark id="19">
+                <name/>
+                <line>821</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>file:/C:/Users/houlds/Documents/Vanier/courses_C_drive/MPLAB_projects/projects/RTOS_projects/RTOS_slides_demos/Test_led/PIC32MX_MPLAB/task_event_group_alarm_w_logic.c</url>
+            <bookmark id="2">
+                <name/>
+                <line>153</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>file:/C:/Users/houlds/Documents/Vanier/courses_C_drive/MPLAB_projects_original/projects/RTOS_projects/RTOS_slides_demos/Test_led/PIC32MX_MPLAB/task_event_group_elevator_v2.c</url>
+            <bookmark id="35">
+                <name/>
+                <line>328</line>
+                <key/>
+            </bookmark>
+            <bookmark id="37">
+                <name/>
+                <line>504</line>
+                <key/>
+            </bookmark>
+            <bookmark id="31">
+                <name/>
+                <line>634</line>
+                <key/>
+            </bookmark>
+            <bookmark id="38">
+                <name/>
+                <line>681</line>
+                <key/>
+            </bookmark>
+            <bookmark id="24">
+                <name/>
+                <line>696</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>file:/C:/Users/houlds/Documents/Vanier/courses_C_drive/MPLAB_projects_original/projects/RTOS_projects/RTOS_slides_demos/Test_led/PIC32MX_MPLAB/task_event_group_elevator_two_tasks.c</url>
+            <bookmark id="26">
+                <name/>
+                <line>177</line>
+                <key/>
+            </bookmark>
+            <bookmark id="27">
+                <name/>
+                <line>476</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/houlds/Documents/Vanier/courses_C_drive/MPLAB_projects_original/projects/common/console.c</file>
+            <file>file:/C:/Users/houlds/Documents/Vanier/courses_C_drive/MPLAB_projects_original/projects/RTOS_projects/multiples_tests/Source/event_groups.c</file>
+            <file>file:/C:/Users/houlds/Documents/Vanier/courses_C_drive/MPLAB_projects_original/projects/common/Tick_core.c</file>
+            <file>file:/C:/Users/houlds/Documents/Vanier/courses_C_drive/MPLAB_projects_original/projects/common/Tick_core.h</file>
+            <file>file:/C:/Users/houlds/Documents/Vanier/courses_C_drive/MPLAB_projects_original/projects/common/initBoard.c</file>
+            <file>file:/C:/Users/houlds/Documents/Vanier/courses_C_drive/MPLAB_projects_original/projects/RTOS_projects/stu_lab_rtos_w24/Test_led/PIC32MX_MPLAB/main.c</file>
+            <file>file:/C:/Users/houlds/Documents/Vanier/courses_C_drive/MPLAB_projects_original/projects/RTOS_projects/stu_lab_rtos_w24/Test_led/PIC32MX_MPLAB/lab1_tasks.c</file>
+            <file>file:/C:/Users/houlds/Documents/Vanier/courses_C_drive/MPLAB_projects_original/projects/RTOS_projects/stu_lab_rtos_w24/Test_led/PIC32MX_MPLAB/FreeRTOSConfig.h</file>
+            <file>file:/C:/Users/houlds/Documents/Vanier/courses_C_drive/MPLAB_projects_original/projects/RTOS_projects/stu_lab_rtos_w24/Test_led/PIC32MX_MPLAB/include/public.h</file>
+        </group>
+    </open-files>
+</project-private>
